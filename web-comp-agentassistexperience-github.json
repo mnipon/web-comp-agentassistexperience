@@ -1,0 +1,9 @@
+{
+  "name": "Agent Assist Experience",
+  "description": "Agent Assist Experience",
+  "tags": ["Agent Assist Experience, AI"],
+  "version": "1.0.0",
+  "element": "<web-comp-agentassistexperience></web-comp-agentassistexperience>",
+  "icon": "neo-icon-crm",
+  "files": ["web-comp-agentassistexperience.js"]
+}
